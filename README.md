@@ -53,13 +53,3 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-### **README.md File Explanation**
-- **Project Overview**: Provides a brief description of the project.
-- **Features**: Summarizes the key features of the game.
-- **Installation**: Guides the user through the installation process to run the project.
-- **How to Run**: Instructions for running the game.
-- **Game Rules**: Basic rules of the game and controls.
-- **Required Libraries**: Lists the necessary Python libraries for the project.
-- **Contributing**: Encourages contributions and provides instructions for doing so.
-- **License**: Mentions the project's licensing under the MIT License.
