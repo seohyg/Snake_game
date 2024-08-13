@@ -35,23 +35,23 @@ python main.py
 ```
 The game will start, and you can control the snake using the W, A, S, D keys.
 
-##Game Rules
+## Game Rules
 - The snake starts at a random position on the board and moves in a random direction.
 - The player can change the snake's direction using keyboard inputs.
 - When the snake eats food, it grows longer, and new food is placed on the board.
 - The game ends when the snake collides with a wall or its own body.
 
-##Known Issues
+## Known Issues
 - Input Bug: If the user presses a key, the snake may move immediately regardless of the screen refresh cycle, causing unexpected behavior. This is a known issue and can cause the snake to move faster than intended in certain situations.
 
-##Required Libraries
+## Required Libraries
 - numpy: Used for array and matrix operations
 - opencv-python: Used for drawing graphical elements
 
-##Contributing
+## Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Bug reports and suggestions for improvements are also welcome.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ### **README.md File Explanation**
