@@ -16,7 +16,7 @@ To run this project, you need to have Python and pip installed.
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/seohyg/Snake_game/snake_game.git
+    git clone https://github.com/seohyg/Snake_game.git
     cd snake_game
     ```
 
