@@ -31,7 +31,7 @@ To run this project, you need to have Python and pip installed.
 To start the game, run the following command in your terminal:
 
 ```bash
-python main.py
+snake_game.py
 ```
 The game will start, and you can control the snake using the W, A, S, D keys.
 
